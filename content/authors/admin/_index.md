@@ -70,7 +70,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I am Junming-WANG (王俊铭in Chinese). I am currently an undergraduate student majoring in Computer Science and Technology at Lanzhou Jiaotong University. I will graduate in June 2022. My research interests are mainly: AIoT, GNSS deformation monitoring, edge computing, Wireless sensor network, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
